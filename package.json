@@ -72,8 +72,8 @@
     "vkbeautify": "^0.99.3"
   },
   "dependencies": {
-    "@babel/core": "^7.7.2",
-    "@babel/preset-env": "^7.7.1",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
     "@typescript-eslint/parser": "^2.18.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-angularjs-annotate": "^0.10.0",
