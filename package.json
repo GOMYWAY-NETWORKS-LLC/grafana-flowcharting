@@ -81,6 +81,6 @@
     "local-web-server": "^4.0.0",
     "ts-loader": "^6.2.1",
     "tslint-config-airbnb": "^5.11.2",
-    "typescript": "^3.7.2"
+    "typescript": "^3.9.10"
   }
 }
