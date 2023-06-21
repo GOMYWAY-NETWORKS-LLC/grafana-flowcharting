@@ -77,9 +77,9 @@
     "@typescript-eslint/parser": "^2.18.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-angularjs-annotate": "^0.10.0",
-    "eslint": "^6.8.0",
+    "eslint": "^7.0.0",
     "local-web-server": "^4.0.0",
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^8.0.14",
     "tslint-config-airbnb": "^5.11.2",
     "typescript": "^3.7.2"
   }
