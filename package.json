@@ -74,10 +74,10 @@
   "dependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
-    "@typescript-eslint/parser": "^2.18.0",
+    "@typescript-eslint/parser": "^4.0.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-angularjs-annotate": "^0.10.0",
-    "eslint": "^6.8.0",
+    "eslint": "^9.0.0",
     "local-web-server": "^4.0.0",
     "ts-loader": "^6.2.1",
     "tslint-config-airbnb": "^5.11.2",
